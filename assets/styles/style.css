@@ -12,15 +12,37 @@
     background-color: #FFB845;
 }
 
+.headerr{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
 .navbar{
     display: flex;
     flex-direction: row;
     border: solid;
     background-color:#442804;
-
+    align-items: center;
+    
 }
 
+.hijo{
+    background-color: #FFB845;
+    text-decoration: none;
+    color: #442804;
+}
 
+.img_logo {
+    display: flex;
+    justify-content: end;
+}
 img {
     width: 200px;
+}
+
+.creado{
+    background-color: #442804;
+    color: #FFB845;
+    text-align: center;
 }
