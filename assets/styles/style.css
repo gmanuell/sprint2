@@ -244,6 +244,7 @@ td {
     align-items: center;
     gap: 20px;
     width: 90%;
+    font-size: 25px;
 }
 
 .benefits1 {
@@ -251,7 +252,7 @@ td {
     align-items: center;
     gap: 80px;
     height: 304px;
-    padding-right: 45px;
+    padding-right: 55px;
 }
 
 .benefits2 {
@@ -259,13 +260,6 @@ td {
     align-items: center;
     gap: 80px;
     height: 304px;
-}
-.stars {
-    display: flex;
-    width: 90%;
-    height: 500px;
-    flex-direction: column;
-
 }
 
 /* css footer */
