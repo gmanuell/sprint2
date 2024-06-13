@@ -264,9 +264,14 @@ td {
     gap: 80px;
     height: 304px;
     border: solid;
-
 }
 
+.tablecolumn{
+    display: flex;
+    flex-direction: column;
+    margin-right: 3px;
+
+}
 /* css footer */
 .creado {
     background-color: #442804;
