@@ -236,6 +236,7 @@ td {
     height: 300px;
     object-fit: cover;
     width: 300px;
+    padding: 10px;
 }
 
 .benefitslist {
@@ -245,6 +246,7 @@ td {
     gap: 20px;
     width: 90%;
     font-size: 25px;
+    margin-left: 90px;
 }
 
 .benefits1 {
@@ -253,6 +255,7 @@ td {
     gap: 80px;
     height: 304px;
     padding-right: 55px;
+    border: solid;
 }
 
 .benefits2 {
@@ -260,6 +263,8 @@ td {
     align-items: center;
     gap: 80px;
     height: 304px;
+    border: solid;
+
 }
 
 /* css footer */
