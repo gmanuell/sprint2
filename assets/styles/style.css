@@ -29,7 +29,7 @@
     margin-left: 30px;
 }
 
-.hijo {
+.son {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
@@ -73,7 +73,7 @@ a:hover {
     align-items: center;
 }
 
-.centrar {
+.center {
     padding: 20px;
     display: flex;
     flex-direction: row;
@@ -191,7 +191,7 @@ a:hover {
     margin-top: 9px;
 }
 
-.marco {
+.frame {
     display: flex;
     flex-direction: column;
     width: 100%;
@@ -273,7 +273,7 @@ td {
 
 }
 /* css footer */
-.creado {
+.made {
     background-color: #442804;
     color: #FFB845;
     text-align: center;
